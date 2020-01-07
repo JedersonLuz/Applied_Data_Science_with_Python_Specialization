@@ -1,11 +1,5 @@
-# Applied Data Science with Python Specialization
+# Introduction to Data Science in Python
 
-Esse repositório contêm todo o material utilizado no programa de especialização da Universidade de Michigan, [Applied Data Science with Python Specialization](<https://www.coursera.org/specializations/data-science-python>).
+Este curso apresentará ao aluno o básico do ambiente de programação python, incluindo técnicas fundamentais de programação python, como lambdas, leitura e manipulação de arquivos csv e a biblioteca numpy. O curso apresentará técnicas de manipulação e limpeza de dados usando a popular biblioteca de ciência de dados python pandas e apresentará a abstração do Series e DataFrame como estruturas centrais de dados para análise de dados, além de tutoriais sobre como usar funções como groupby, mesclagem e tabelas dinâmicas efetivamente. Ao final deste curso, os alunos poderão coletar dados tabulares, limpá-los, manipulá-los e executar análises estatísticas inferenciais básicas. 
 
-Esse programa é composto de 5 cursos, sendo eles os seguintes:
-
-* [Introduction to Data Science in Python](<https://www.coursera.org/learn/python-data-analysis?specialization=data-science-python>)
-* [Applied Plotting, Charting & Data Representation in Python](<https://www.coursera.org/learn/python-plotting?specialization=data-science-python>)
-* [Applied Machine Learning in Python](<https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python>)
-* [Applied Text Mining in Python](<https://www.coursera.org/learn/python-text-mining?specialization=data-science-python>)
-* [Applied Social Network Analysis in Python](<https://www.coursera.org/learn/python-social-network-analysis>)
+Este curso deve ser realizado antes de qualquer um dos outros cursos de Ciência de Dados Aplicada com Python: Plotagem Aplicada, Gráficos e Representação de Dados em Python, Aprendizado de Máquina Aplicado em Python, Mineração de Texto Aplicada em Python, Análise de Rede Social Aplicada em Python.
