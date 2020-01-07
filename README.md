@@ -1,6 +1,6 @@
 # Applied Data Science with Python Specialization
 
-Esse repositório contêm todo o material utilizado no programa de especialização da Universidade de Michigan, [Applied Data Science with Python Specialization](<https://www.coursera.org/specializations/data-science-python>).
+Este repositório contêm todo o material utilizado no programa de especialização da Universidade de Michigan, [Applied Data Science with Python Specialization](<https://www.coursera.org/specializations/data-science-python>).
 
 Esse programa é composto de 5 cursos, sendo eles os seguintes:
 
